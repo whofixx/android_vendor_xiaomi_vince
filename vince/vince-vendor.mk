@@ -563,5 +563,4 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libts_detected_face_hal \
-    libts_face_beautify_hal \
-    FingerprintExtensionService
+    libts_face_beautify_hal
