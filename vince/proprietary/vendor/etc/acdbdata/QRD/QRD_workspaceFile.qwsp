@@ -122,6 +122,7 @@
           <Block name="TX_VOICE_IIR_MIC1" dataView_ID="0x0000004E" ID="0x00010EF0" type="TX" />
 	  <Block name="TX_VOICE_MIC_GAIN" dataView_ID="0x00000018" ID="0x00010EF7" type="TX" />
           <Block name="TX_VOICE_FVSAM" ID="0x00010F50" type="TX" NewAdded="true" dataView_ID="0xFFFF0002" />
+          <Block name="TX_VOICE_MIC_GAIN" dataView_ID="0x00000018" ID="0x00010EF7" type="TX" />
           <Block name="TX_VOICE_FIR" dataView_ID="0x00000021" ID="0x00010EE9" type="TX" dynamicModule="true" />
           <Block name="TX_VOICE_IIR" dataView_ID="0x0000004E" ID="0x00010EE7" type="TX" dynamicModule="true" />
           <Block name="TX_VOICE_AIG" dataView_ID="0x0000000E" ID="0x00010F00" type="TX" />
@@ -133,7 +134,11 @@
           <Block name="TX_VOICE_IIR_MIC1" dataView_ID="0x0000004E" ID="0x00010EF0" type="TX" />
           <Block name="TX_VOICE_IIR_MIC2" dataView_ID="0x0000004E" ID="0x00010EF1" type="TX" />
           <Block name="TX_VOICE_FVSAM" ID="0x00010F50" type="TX" NewAdded="true" dataView_ID="0xFFFF0002" />
+<<<<<<< HEAD:vince/proprietary/vendor/etc/acdbdata/QRD/QRD_workspaceFile.qwsp
 	  <Block name="TX_VOICE_MIC_GAIN" dataView_ID="0x00000018" ID="0x00010EF7" type="TX" />
+=======
+          <Block name="TX_VOICE_MIC_GAIN" dataView_ID="0x00000018" ID="0x00010EF7" type="TX" />
+>>>>>>> 289499c... vince-common: Update blobs from Tissot PKQ1.180917.001/V10.0.7.0.PDHMIXM:vince-common/proprietary/vendor/etc/acdbdata/QRD/QRD_workspaceFile.qwsp
           <Block name="TX_VOICE_FIR" dataView_ID="0x00000021" ID="0x00010EE9" type="TX" dynamicModule="true" />
           <Block name="TX_VOICE_IIR" dataView_ID="0x0000004E" ID="0x00010EE7" type="TX" dynamicModule="true" />
           <Block name="TX_VOICE_AIG" dataView_ID="0x0000000E" ID="0x00010F00" type="TX" />
@@ -145,7 +150,11 @@
           <Block name="TX_VOICE_IIR_MIC1" dataView_ID="0x0000004E" ID="0x00010EF0" type="TX" />
           <Block name="TX_VOICE_IIR_MIC2" dataView_ID="0x0000004E" ID="0x00010EF1" type="TX" />
           <Block name="TX_VOICE_FVSAM" ID="0x00010F50" type="TX" NewAdded="true" dataView_ID="0xFFFF0002" />
+<<<<<<< HEAD:vince/proprietary/vendor/etc/acdbdata/QRD/QRD_workspaceFile.qwsp
 	  <Block name="TX_VOICE_MIC_GAIN" dataView_ID="0x00000018" ID="0x00010EF7" type="TX" />
+=======
+          <Block name="TX_VOICE_MIC_GAIN" dataView_ID="0x00000018" ID="0x00010EF7" type="TX" />
+>>>>>>> 289499c... vince-common: Update blobs from Tissot PKQ1.180917.001/V10.0.7.0.PDHMIXM:vince-common/proprietary/vendor/etc/acdbdata/QRD/QRD_workspaceFile.qwsp
           <Block name="TX_VOICE_FIR" dataView_ID="0x00000021" ID="0x00010EE9" type="TX" dynamicModule="true" />
           <Block name="TX_VOICE_IIR" dataView_ID="0x0000004E" ID="0x00010EE7" type="TX" dynamicModule="true" />
           <Block name="TX_VOICE_AIG" dataView_ID="0x0000000E" ID="0x00010F00" type="TX" />
